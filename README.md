@@ -1,7 +1,7 @@
 # TSFlightsApp Backend
 
 ## Description
-The backend of this app is built with NestJS. This app is built for learning purposes only.  
+The backend of this app is built with **NestJS**. This app is built for learning purposes only.  
 The backend of this flights app provides RESTful API for serving frontend. The database used is PostgreSQL.  
 
 ps. Logo created by myself. TS for TypeScript/Touching skies.
